@@ -1,0 +1,14 @@
+Product,Category,Name,Sales
+apple,Fruit,"LastName1, FirstName1",1000
+banana,Fruit,"LastName6, FirstName6",400
+strawberry,Fruit,"LastName4, FirstName4",100
+TV,Equipment,"LastName5, FirstName5",10000
+Radio,Equipment,"LastName6, FirstName6",6000
+Table,Furniture,"LastName7, FirstName7",2100
+Chair,Furniture,"LastName8, FirstName8",1200
+Computer,Equipment,"LastName1, FirstName1",23000
+TV,Equipment,"LastName1, FirstName1",3210
+Radio,Equipment,"LastName1, FirstName1",5432
+Table,Furniture,"LastName5, FirstName5",7654
+Chair,Furniture,"LastName6, FirstName6",324
+Computer,Equipment,"LastName7, FirstName7",2198
